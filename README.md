@@ -193,14 +193,14 @@ These differences highlight the importance of considering patient age and discha
 
 The findings support several considerations for emergency department staffing and resource planning. They identify patterns to investigate further rather than prescribing exact staffing levels.
 
-- **Plan around relatively stable overall demand.** Monthly encounter volume remained relatively steady throughout 2022. Staffing decisions should account for baseline demand as well as changes in patient demographics and condition-specific encounters.
+- Plan around relatively stable overall demand. Monthly encounter volume remained relatively steady throughout 2022. Staffing decisions should account for baseline demand as well as changes in patient demographics and condition-specific encounters.
 
-- **Account for seasonal variation in pediatric encounters.** Lower pediatric utilization during summer months and increased encounters among younger children in November suggest opportunities to review seasonal staffing and resource requirements.
+- Account for seasonal variation in pediatric encounters. Lower pediatric utilization during summer months and increased encounters among younger children in November suggest opportunities to review seasonal staffing and resource requirements.
 
-- **Prepare for changes in condition-specific demand.** The January COVID-19 spike and increases in infectious disease and respiratory symptom encounters during November suggest that seasonal demand monitoring may help inform staffing and supply planning.
+- Prepare for changes in condition-specific demand. The January COVID-19 spike and increases in infectious disease and respiratory symptom encounters during November suggest that seasonal demand monitoring may help inform staffing and supply planning.
 
-- **Recognize the predominance of adult encounters.** Since adults accounted for approximately 80% of encounters, adult care needs represent a substantial component of overall ED utilization. Staffing plans should also account for differences in acuity and resource requirements rather than relying on encounter volume alone.
+- Recognize the predominance of adult encounters. Since adults accounted for approximately 80% of encounters, adult care needs represent a substantial component of overall ED utilization. Staffing plans should also account for differences in acuity and resource requirements rather than relying on encounter volume alone.
 
-- **Consider the needs of older patients.** Older age groups had lower rates of routine discharge home and higher proportions of transfers, hospice care, and death. These patterns support reviewing care coordination, discharge planning, and access to appropriate services for older patients. Resource decisions should be guided by clinical needs, patient acuity, and evidence of potential benefit rather than age alone.
+- Consider the needs of older patients. Older age groups had lower rates of routine discharge home and higher proportions of transfers, hospice care, and death. These patterns support reviewing care coordination, discharge planning, and access to appropriate services for older patients. Resource decisions should be guided by clinical needs, patient acuity, and evidence of potential benefit rather than age alone.
 
 The analysis provides a descriptive baseline for understanding ED utilization in 2022. Further analysis using encounter-level timestamps, acuity measures, staffing data, and multiple years of observations would be needed to develop more precise staffing forecasts and evaluate the impact of operational changes.
