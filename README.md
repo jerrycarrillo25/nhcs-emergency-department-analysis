@@ -19,6 +19,12 @@ This case study analyzes 2022 emergency department (ED) data from the National H
 - Tableau visualizations illustrating utilization patterns
 - Findings and recommendations for emergency department operations
 
+## Dashboard
+
+Explore the interactive Tableau dashboard to examine emergency department data across age, sex, and time.
+
+**[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/gerard.carrillo/viz/EmergencyDepartmentUtilizationAnalysis_17926855484100/Dashboard3#1)**
+
 ## 2. Data Source
 
 This project uses the 2022 National Hospital Care Survey (NHCS) public-use emergency department data.
