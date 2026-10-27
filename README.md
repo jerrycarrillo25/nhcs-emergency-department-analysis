@@ -215,4 +215,4 @@ The analysis provides a descriptive baseline for understanding ED utilization in
 
 The following dashboards explore emergency department utilization patterns across 2022. Click any dashboard image to open the interactive visualization on Tableau Public.
 
-[![Monthly Encounter Volume]([images/monthly_utilization.png](https://github.com/jerrycarrillo25/nhcs-emergency-department-analysis/blob/main/image/discharges_by_age_sex.png))]([https://public.tableau.com/views/ExampleDashboard/MonthlyVolume](https://public.tableau.com/app/profile/gerard.carrillo/viz/EmergencyDepartmentUtilizationAnalysis_17926855484100/Dashboard3))
+[![Monthly Encounter Volume]([images/monthly_utilization.png)](https://github.com/jerrycarrillo25/nhcs-emergency-department-analysis/blob/main/image/discharges_by_age_sex.png))]([https://public.tableau.com/views/ExampleDashboard/MonthlyVolume](https://public.tableau.com/app/profile/gerard.carrillo/viz/EmergencyDepartmentUtilizationAnalysis_17926855484100/Dashboard3))
