@@ -210,3 +210,9 @@ The findings support several considerations for emergency department staffing an
 - Consider the needs of older patients. Older age groups had lower rates of routine discharge home and higher proportions of transfers, hospice care, and death. These patterns support reviewing care coordination, discharge planning, and access to appropriate services for older patients. Resource decisions should be guided by clinical needs, patient acuity, and evidence of potential benefit rather than age alone.
 
 The analysis provides a descriptive baseline for understanding ED utilization in 2022. Further analysis using encounter-level timestamps, acuity measures, staffing data, and multiple years of observations would be needed to develop more precise staffing forecasts and evaluate the impact of operational changes.
+
+## 8. Tableau Dashboards
+
+The following dashboards explore emergency department utilization patterns across 2022. Click any dashboard image to open the interactive visualization on Tableau Public.
+
+[![Monthly Encounter Volume](images/monthly_utilization.png)]([https://public.tableau.com/views/ExampleDashboard/MonthlyVolume](https://public.tableau.com/app/profile/gerard.carrillo/viz/EmergencyDepartmentUtilizationAnalysis_17926855484100/Dashboard3))
